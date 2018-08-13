@@ -1,6 +1,6 @@
 # devops-aula02
 
-Will Smith
-Tom Cruise
-Dwayne Johnson
-Tom Hanks
+faz chover
+Advogado Fiel
+faint
+nookie
