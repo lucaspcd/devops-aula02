@@ -1,6 +1,6 @@
 # devops-aula02
 
-# faz chover
-# Advogado Fiel
-# faint
-# nookie
+# Counter Strike
+# Call of Duty
+# Ragnarok 
+# The duel
