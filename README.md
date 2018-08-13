@@ -1,5 +1,6 @@
 # devops-aula02
 
-# Will Smith
-# Johnny Deep
-# Dwayne Johnson
+# faz chover
+# Advogado Fiel
+# faint
+# nookie
