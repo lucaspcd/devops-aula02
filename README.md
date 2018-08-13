@@ -2,5 +2,4 @@
 
 # faz chover
 # Advogado Fiel
-# faint
-# nookie
+
